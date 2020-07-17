@@ -1,6 +1,9 @@
-p.dotted{border-style:dotted}
-p.dashed{border-style:dashed}
-p.solid{border-style:solid}
+p.dotted{border-style:dotted;
+border-width:4px;}
+p.dashed{border-style:dashed;
+border-width:thick;}
+p.solid{border-style:solid;
+border-width:4px 5px 20px 40px}
 p.double{border-style:double}
 p.groove{border-style:groove}
 p.ridge{border-style:ridge}
