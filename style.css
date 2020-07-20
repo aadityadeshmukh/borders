@@ -15,3 +15,17 @@ p.none{border-style:none}
 p.hidden{border-left-style:hidden;
 border-bottom-style: solid;}
 p.mixed{border-style:dotted dashed solid double;}
+.margin-training{
+  border:10px solid blanchedalmond;
+  margin-left:100px;
+  width:150px;
+}
+.inherit-margin{
+  margin-left:inherit;
+}
+h1{
+  margin:50px 0px 0px 0px;
+}
+h2{
+  margin:0px 0px 20px 0px;
+}
