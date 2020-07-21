@@ -32,7 +32,5 @@ h2{
 #padding-test
 {
   border:2px solid blue;
-  padding:20px;
-  padding-left:40px;
-  padding:20px 30px 40px 50px;
+  padding:25px 50px;
 }
